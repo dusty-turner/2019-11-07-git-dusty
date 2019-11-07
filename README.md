@@ -29,3 +29,9 @@ Git Workshop for DCR 2019 notes.
 - `branch -a`: see what branches exist
 - `log --oneline --graph --decorate --all`: shows what is going on
 - `branch -d <name_of_branch>`: delets branch 
+- `git fetch --prune`: gets rid of remote branch that's already gone
+- `branch -D`: force dele a branch that was *not* merged
+
+## Updating history 
+
+- `rebase <branch_name>`: incorporate changes in <branch_name> eg, `master` into current branch, eg `project_template` 
