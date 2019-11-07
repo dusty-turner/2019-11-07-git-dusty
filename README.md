@@ -25,3 +25,11 @@ Git Workshop for DCR 2019 notes.
 
 - This is my second commit
 - I hope I can make it work
+
+## Branches
+
+- `branch <branch_name>`: create a new branch
+- `checkout <branch_name>`: move to that branch
+- `checkout -b <branch_name>`: create and move at the same time
+- `branch -a`: see what branches exist
+- `log --oneline --graph --decorate --all`: shows what is going on
