@@ -10,6 +10,9 @@
 - `head`: where you are currently looking or located
 - `log`: looking at all the previous messages or commands (typed)
 	-`log --oneline`: get a one line message history
+	
+## Remotes
+
 - `remote`: somewhere your git repo is stores (eg, GITHUB)
  - `origin`: the default you give your remote
 - `pull`: receiving local changes to remote
@@ -19,5 +22,3 @@
 
 - This is my second commit
 - I hope I can make it work
-
-# after lunch change 3
