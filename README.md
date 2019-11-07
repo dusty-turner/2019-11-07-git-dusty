@@ -21,11 +21,6 @@ Git Workshop for DCR 2019 notes.
 - `pull`: receiving local changes to remote
 - `push`: sending local changes to remote
 
-# Git workshop change 2
-
-- This is my second commit
-- I hope I can make it work
-
 ## Branches
 
 - `branch <branch_name>`: create a new branch
@@ -33,3 +28,5 @@ Git Workshop for DCR 2019 notes.
 - `checkout -b <branch_name>`: create and move at the same time
 - `branch -a`: see what branches exist
 - `log --oneline --graph --decorate --all`: shows what is going on
+- `branch -d <name_of_branch>`: delets branch 
+- `git fetch --prune`: gets rid of remote branch that's already gone
