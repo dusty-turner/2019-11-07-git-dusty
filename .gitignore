@@ -1,6 +1,8 @@
 # html files
 .html
 
+# extra line for git example
+
 # History files
 .Rhistory
 .Rapp.history
