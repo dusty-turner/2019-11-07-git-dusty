@@ -2,3 +2,8 @@
 
 - `init`: initialize folder as git repo
 - `status`: see what is going on in the repo
+
+# Git workshop change 2
+
+- This is my second commit
+- I hope I can make it work
