@@ -1,5 +1,9 @@
 
-# Git Workshop DCR 2019 (changed to cause a conflict)
+# Git Workshop DCR 2019 (notes)
+
+DCR 2019 git workshop notes
+
+## Local
 
 - `init`: initialize folder as git repo
 - `status`: see what is going on in the repo
