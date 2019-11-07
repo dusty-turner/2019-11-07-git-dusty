@@ -13,7 +13,7 @@
 - `remote`: somewhere your git repo is stores (eg, GITHUB)
  - `origin`: the default you give your remote
 - `pull`: receiving local changes to remote
-- `oush`: sending local changes to remote
+- `push`: sending local changes to remote
 
 # Git workshop change 2
 
