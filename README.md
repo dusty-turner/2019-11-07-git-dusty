@@ -29,4 +29,3 @@ Git Workshop for DCR 2019 notes.
 - `branch -a`: see what branches exist
 - `log --oneline --graph --decorate --all`: shows what is going on
 - `branch -d <name_of_branch>`: delets branch 
-- `git fetch --prune`: gets rid of remote branch that's already gone
