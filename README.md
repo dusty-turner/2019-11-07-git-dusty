@@ -36,3 +36,7 @@ Git Workshop for DCR 2019 notes.
 
 - `rebase <branch_name>`: incorporate changes in <branch_name> eg, `master` into current branch, eg `project_template` 
   - You perform this cocmmand on the feature branch, not on `master`. 
+
+## Dusty's Changes
+
+- making a commit to learn about git!
